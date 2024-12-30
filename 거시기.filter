@@ -423,7 +423,6 @@ BaseType "Catalyst"
 SetTextColor 0 207 132
 SetBorderColor 0 207 132
 SetBackgroundColor 76 51 12
-PlayEffect White
 
 # Currency Tier C: Vaal, Chaos, Exalt, Exotic
 Show
