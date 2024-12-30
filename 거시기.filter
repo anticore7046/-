@@ -417,7 +417,7 @@ PlayAlertSound 2 300
 PlayEffect White
 MinimapIcon 1 White Circle
 
-hide
+Hide
 Class "Currency"
 BaseType "Catalyst"
 SetTextColor 0 207 132
@@ -433,7 +433,7 @@ SetTextColor 255 207 132
 SetBorderColor 255 207 132
 MinimapIcon 2 Grey Circle
 
-hide
+Hide
 Class "Currency"
 BaseType "Arcanist's Etcher" "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation" "Regal Shard"
 SetTextColor 0 0 132
